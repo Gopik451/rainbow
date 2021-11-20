@@ -2,7 +2,7 @@ import discord
 import asyncio
 import random
 
-token = 'OTExNjUwMzgyODk4NDA1NDE3.YZkelA.s5H3dRd9MEmXjdwimoHTlzeL2Ls'
+token = 'OTExNjUwMzgyODk4NDA1NDE3.YZkelA.rzL0Y7n-1RL8EUuQKhXi0PMLSFs'
 serverid = 897842308077207593
 rainbowrolename = "RAINBOW"
 delay = 12
